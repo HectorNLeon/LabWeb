@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0px;
+    color: #4F545F;
+    font-size: 13px;
+    font-family: Verdana, sans-serif;
+    background-color: #55B3C5;
+}
+.limits{
+    padding: 20px;
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+
+fieldset{
+    border: 2px solid black;
+    background-color: rgb(231, 228, 228);
+    margin: 20px;
+    padding: 20px;
+}
+h3{
+    background-color: white;
+    width: fit-content;
+    border: 1px dotted black;
+}
+    

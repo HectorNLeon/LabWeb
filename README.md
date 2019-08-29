@@ -1,0 +1,1 @@
+This repository is a Laboratory activity from the Web Development course.
